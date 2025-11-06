@@ -2,7 +2,7 @@
 
 **Official Release Repository**
 
-OmniBlast Explorer is a professional desktop application for monitoring and managing OmniBlast sensor systems, developed by Advanced Materials & Devices, Inc.
+OmniBlast Explorer is a professional desktop application for monitoring and managing OmniBlast sensor systems, developed by Advanced Materials and Devices.
 
 ## About
 
@@ -31,13 +31,12 @@ This repository contains official releases of OmniBlast Explorer for end users. 
 - Real-time sensor monitoring and data visualization
 - Advanced data export and reporting capabilities
 - Firmware update management
-- Intuitive user interface with dark mode support
 - Automatic update notifications
 
 ## Support
 
 For technical support, bug reports, or feature requests:
-- **Email**: support@amadinc.com
+- **Email**: info@amadinc.com
 - **Website**: [www.amadinc.com](https://www.amadinc.com/)
 
 ## License
@@ -46,7 +45,7 @@ Copyright © 2025 Advanced Materials & Devices, Inc. All rights reserved.
 
 ## About Advanced Materials & Devices
 
-Advanced Materials & Devices, Inc. is a leading provider of innovative sensor technology and monitoring solutions.
+Advanced Materials & Devices, Inc. is a leading provider of innovative blast sensor technology.
 
 Visit us at [www.amadinc.com](https://www.amadinc.com/)
 
