@@ -41,7 +41,7 @@ For technical support, bug reports, or feature requests:
 
 ## License
 
-Copyright © 2025 Advanced Materials & Devices, Inc. All rights reserved.
+Copyright © 2026 Advanced Materials & Devices, Inc. All rights reserved.
 
 ## About Advanced Materials & Devices
 
