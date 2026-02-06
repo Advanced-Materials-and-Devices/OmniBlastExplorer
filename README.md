@@ -10,7 +10,6 @@ This repository contains official releases of OmniBlast Explorer for end users. 
 
 - **Windows Installer**: Easy-to-use installer for Windows systems
 - **Release Notes**: Detailed changelog for each version
-- **Documentation**: User guides and technical documentation
 
 ## Installation
 
@@ -23,8 +22,7 @@ This repository contains official releases of OmniBlast Explorer for end users. 
 
 - **Operating System**: Windows 10 or later (64-bit)
 - **Memory**: 4 GB RAM minimum, 8 GB recommended
-- **Disk Space**: 500 MB free space
-- **Display**: 1280x720 minimum resolution
+- **Disk Space**: 25 GB free space
 
 ## Features
 
